@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8b0c863.css",
+    "main.js": "/static/js/main.db08fc47.js",
+    "static/media/food_waste_info.jpg": "/static/media/food_waste_info.c3282418fb17ba5ceab6.jpg",
+    "static/media/fast_fashion_info.jpg": "/static/media/fast_fashion_info.658973e1c8005cf05e1b.jpg",
+    "index.html": "/index.html",
+    "main.c8b0c863.css.map": "/static/css/main.c8b0c863.css.map",
+    "main.db08fc47.js.map": "/static/js/main.db08fc47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8b0c863.css",
+    "static/js/main.db08fc47.js"
+  ]
+}
